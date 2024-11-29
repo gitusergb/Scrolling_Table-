@@ -70,7 +70,7 @@ Refer to the backend repository to seed the database and run the server.
 ## 🛠 Environment Variables
 Create a `.env` file in the root directory with the following:
 ```env
-REACT_APP_BACKEND_URL=<your-backend-api-url>
+REACT_APP_BACKEND_URL=http://localhost:5000/api/orders
 ```
 
 ---
