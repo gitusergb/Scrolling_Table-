@@ -27,7 +27,9 @@ Check out the live project: [Virtual Scrolling Orders Table on Netlify](https://
 ---
 
 ## 📂 Repository
-Explore the source code: [GitHub Repository](https://github.com/gitusergb/Scrolling_Table-)
+Explore the Backend source code: [GitHub Repository](https://github.com/gitusergb/Scrolling_Table-)
+Explore the FrontEnd source code: [GitHub Repository](https://github.com/gitusergb/Scrolling_Table--frontEnd)
+
 
 ---
 
